@@ -2,7 +2,7 @@
 title: Martin M. Kapons
 position: Assistant Professor in Accounting
 affiliation: University of Amsterdam
-email: mkapons (at) uva.nl
+email: m.m.kapons (at) uva.nl
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -24,7 +24,8 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-# google_analytics: UA-111540567-4
+google_analytics: G-ZH7QK23P95
+
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
