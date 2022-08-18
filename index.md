@@ -4,6 +4,8 @@ layout: homepage
 
 ## About Me
 
+Welcome to my website!
+<br>
 I am an Assistant Professor in Accounting at the University of Amsterdam.
 
 ## Research Interests
@@ -30,3 +32,7 @@ I am an Assistant Professor in Accounting at the University of Amsterdam.
   with Peter Kelly (University of Notre Dame), Robert Stoumbos (Columbia University), and Rafael Zambrana (University of Notre Dame)
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2311512)]
+
+## CV
+
+- [[PDF](https://github.com/mkapons/mkapons.github.io/blob/master/assets/files/CV.pdf)]
