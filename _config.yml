@@ -83,10 +83,10 @@ author:
   name             : "Martin M. Kapons"
   avatar           : "profile.png"
   bio              : "Assistant Professor in Accounting"
-  location         : "Location"
+  location         :
   employer         : "University of Amsterdam"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            : "m.m.kapons@uva.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
