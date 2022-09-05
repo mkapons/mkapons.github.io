@@ -33,6 +33,12 @@ I am an Assistant Professor in Accounting at the University of Amsterdam.
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2311512)]
 
+- **Biased Inference due to Prior Beliefs: Evidence from the Field**
+  <br>
+  with Peter Kelly (University of Notre Dame)
+  <br>
+  [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209631)]
+
 ## CV
 
 - [[PDF](https://github.com/mkapons/mkapons.github.io/blob/master/assets/files/CV.pdf)]
