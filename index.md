@@ -12,6 +12,7 @@ I am an Assistant Professor in Accounting at the University of Amsterdam.
 
 - **Financial Accounting**
 - **Valuation**
+- **Expectation Formation**
 
 ## Working Papers
 
