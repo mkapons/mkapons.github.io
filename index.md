@@ -18,7 +18,7 @@ I am an Assistant Professor in Accounting at the University of Amsterdam.
 
 - **Dividends, Trust, and Firm Value**
   <br>
-  with Peter Kelly (University of Notre Dame), Robert Stoumbos (Columbia University), and Rafael Zambrana (University of Notre Dame)
+  with Peter Kelly (University of Notre Dame), Robert Stoumbos (ESSEC Business School), and Rafael Zambrana (University of Notre Dame)
   <br>
   Accepted at Review of Accounting Studies
   <br>
