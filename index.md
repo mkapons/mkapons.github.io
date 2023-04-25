@@ -20,7 +20,7 @@ I am an Assistant Professor in Accounting at the University of Amsterdam.
   <br>
   with Peter Kelly (University of Notre Dame), Robert Stoumbos (Columbia University), and Rafael Zambrana (University of Notre Dame)
   <br>
-  accepted at Review of Accounting Studies
+  Accepted at Review of Accounting Studies
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2311512)]
 
