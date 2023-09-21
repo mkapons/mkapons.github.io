@@ -31,6 +31,8 @@ I am an Assistant Professor in Accounting at the University of Amsterdam.
   <br>
   with Peter Easton (University of Notre Dame), Steve Monahan (University of Utah), Harm Schutt (Tilburg University), and Eric Weisbrod (University of Kansas)
   <br>
+  Conditionally accepted at The Accounting Review
+  <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3752238)]
 
 - **Biased Inference due to Prior Beliefs: Evidence from the Field**
@@ -39,7 +41,7 @@ I am an Assistant Professor in Accounting at the University of Amsterdam.
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209631)]
 
-- **PEAD in Bond Markets based on Risk Information in Earnings Announcements**
+- **Risk Information PEAD in Bonds**
   <br>
   with Peter Kelly (University of Notre Dame)
   <br>
