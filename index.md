@@ -41,7 +41,7 @@ I am an Assistant Professor in Accounting at the University of Amsterdam.
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209631)]
 
-- **Risk Information PEAD in Bonds**
+- **How do Bonds React to Risk Information in Earnings Announcements?**
   <br>
   with Peter Kelly (University of Notre Dame)
   <br>
