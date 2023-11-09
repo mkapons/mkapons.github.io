@@ -20,20 +20,21 @@ I am an Assistant Professor in Accounting at the University of Amsterdam.
   <br>
   with Peter Kelly (University of Notre Dame), Robert Stoumbos (ESSEC Business School), and Rafael Zambrana (University of Notre Dame)
   <br>
-  Forthcoming at Review of Accounting Studies
+  Review of Accounting Studies. 28, 1354-1387 (2023)
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2311512)]
-
-
-## Working Papers
 
 - **Forecasting Earnings Using k-Nearest Neighbors**
   <br>
   with Peter Easton (University of Notre Dame), Steve Monahan (University of Utah), Harm Schutt (Tilburg University), and Eric Weisbrod (University of Kansas)
   <br>
-  Accepted at The Accounting Review
+  Forthcoming at The Accounting Review
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3752238)]
+
+
+
+## Working Papers
 
 - **Biased Inference due to Prior Beliefs: Evidence from the Field**
   <br>
