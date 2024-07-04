@@ -28,7 +28,7 @@ I am an Assistant Professor in Accounting at the University of Amsterdam.
   <br>
   with Peter Easton (University of Notre Dame), Steve Monahan (University of Utah), Harm Schutt (Tilburg University), and Eric Weisbrod (University of Kansas)
   <br>
-  Forthcoming at The Accounting Review
+  The Accounting Review. 99(3), 115-140 (2024)
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3752238)]
 
