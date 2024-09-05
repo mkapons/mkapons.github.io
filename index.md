@@ -6,7 +6,7 @@ layout: homepage
 
 Welcome to my website!
 <br>
-I am an Assistant Professor in Accounting at the University of Amsterdam.
+I am an Assistant Professor in Accounting and Control at INSEAD.
 
 ## Research Interests
 
