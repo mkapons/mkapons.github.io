@@ -18,7 +18,7 @@ I am an Assistant Professor in Accounting and Control at INSEAD.
 
 - **Dividends, Trust, and Firm Value**
   <br>
-  with Peter Kelly (University of Notre Dame), Robert Stoumbos (ESSEC Business School), and Rafael Zambrana (University of Notre Dame)
+  with Peter Kelly (Claremont McKenna College), Robert Stoumbos (ESSEC Business School), and Rafael Zambrana (University of Notre Dame)
   <br>
   Review of Accounting Studies. 28, 1354-1387 (2023)
   <br>
@@ -38,22 +38,18 @@ I am an Assistant Professor in Accounting and Control at INSEAD.
 
 - **Biased Inference due to Prior Beliefs: Evidence from the Field**
   <br>
-  with Peter Kelly (University of Notre Dame)
+  with Peter Kelly (Claremont McKenna College)
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209631)]
 
 - **How do Bonds React to Risk Information in Earnings Announcements?**
   <br>
-  with Peter Kelly (University of Notre Dame)
+  with Peter Kelly (Claremont McKenna College)
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4529463)]
 
 - **Attrition Bias in Studies Using CRSP/Compustat Merged Data**
   <br>
-  with Peter Easton (University of Notre Dame), Peter Kelly (University of Notre Dame), and Andy Neuhierl (Washington University in St. Louis)
+  with Peter Easton (University of Notre Dame), Peter Kelly (Claremont McKenna College), and Andy Neuhierl (Washington University in St. Louis)
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3040354)]
-
-## CV
-
-- [[PDF](https://github.com/mkapons/mkapons.github.io/blob/master/assets/files/CV.pdf)]
