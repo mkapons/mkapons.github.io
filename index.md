@@ -48,6 +48,12 @@ I am an Assistant Professor in Accounting and Control at INSEAD.
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4529463)]
 
+- **Seasonal Variation in Cash Flows and the Timing Role of Accruals**
+  <br>
+  with David Veenman (University of Amsterdam)
+  <br>
+  [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5042551)]
+
 - **Attrition Bias in Studies Using CRSP/Compustat Merged Data**
   <br>
   with Peter Easton (University of Notre Dame), Peter Kelly (Claremont McKenna College), and Andy Neuhierl (Washington University in St. Louis)
