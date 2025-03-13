@@ -40,6 +40,8 @@ I am an Assistant Professor in Accounting and Control at INSEAD.
   <br>
   with Peter Kelly (Claremont McKenna College)
   <br>
+  Conditionally accepted at Journal of Political Economy: Microeconomics
+  <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209631)]
 
 - **How do Bonds React to Risk Information in Earnings Announcements?**
