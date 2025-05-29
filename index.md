@@ -32,17 +32,15 @@ I am an Assistant Professor in Accounting and Control at INSEAD.
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3752238)]
 
-
-
-## Working Papers
-
 - **Biased Inference due to Prior Beliefs: Evidence from the Field**
   <br>
   with Peter Kelly (Claremont McKenna College)
   <br>
-  Conditionally accepted at Journal of Political Economy: Microeconomics
+  Accepted at Journal of Political Economy: Microeconomics
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209631)]
+
+## Working Papers
 
 - **How do Bonds React to Risk Information in Earnings Announcements?**
   <br>
