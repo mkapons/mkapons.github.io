@@ -22,7 +22,7 @@ I am an Assistant Professor in Accounting and Control at INSEAD.
   <br>
   Review of Accounting Studies. 28, 1354-1387 (2023)
   <br>
-  [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2311512)]
+  [[PDF](https://link.springer.com/article/10.1007/s11142-023-09795-4)]
 
 - **Forecasting Earnings Using k-Nearest Neighbors**
   <br>
@@ -30,7 +30,7 @@ I am an Assistant Professor in Accounting and Control at INSEAD.
   <br>
   The Accounting Review. 99(3), 115-140 (2024)
   <br>
-  [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3752238)]
+  [[PDF](https://doi.org/10.2308/TAR-2021-0478)]
 
 - **Biased Inference due to Prior Beliefs: Evidence from the Field**
   <br>
@@ -38,7 +38,7 @@ I am an Assistant Professor in Accounting and Control at INSEAD.
   <br>
   Accepted at Journal of Political Economy: Microeconomics
   <br>
-  [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209631)]
+  [[PDF](https://doi.org/10.1086/736928)]
 
 ## Working Papers
 
