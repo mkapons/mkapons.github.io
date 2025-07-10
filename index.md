@@ -54,6 +54,12 @@ I am an Assistant Professor in Accounting and Control at INSEAD.
   <br>
   [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5042551)]
 
+- **The Fourth-Quarter Earnings Effect**
+  <br>
+  with Oliver Binz (ESMT Berlin)
+  <br>
+  [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5346432)]
+
 - **Attrition Bias in Studies Using CRSP/Compustat Merged Data**
   <br>
   with Peter Easton (University of Notre Dame), Peter Kelly (Claremont McKenna College), and Andy Neuhierl (Washington University in St. Louis)
